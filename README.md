@@ -16,3 +16,13 @@ This is a simple ATM simulation project developed in Python. It allows users to 
 ## ▶️ How to Run
 1. Install Python
 2. Run the file:
+#Project structure
+atm-simulation/
+│
+├── main.py              # Main program (your ATM code)
+├── README.md            # Project description
+├── requirements.txt     # (optional, for future use)
+└── transactions.txt     # (optional, if you store history later)
+
+## 👨‍💻 Author
+MONU TYAGI
